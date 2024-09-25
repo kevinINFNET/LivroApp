@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LivroApp", "LivroApp\LivroApp.csproj", "{CBEB402D-11BE-45FA-9602-E719192876CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBEB402D-11BE-45FA-9602-E719192876CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEB402D-11BE-45FA-9602-E719192876CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEB402D-11BE-45FA-9602-E719192876CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEB402D-11BE-45FA-9602-E719192876CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9640C6E4-3FE2-46D6-925D-B7C821E7D907}
+	EndGlobalSection
+EndGlobal
